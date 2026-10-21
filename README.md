@@ -1,6 +1,6 @@
 # Stable_Diffusion
 
-A PyTorch implementation of a Denoising Diffusion Probabilistic Model (DDPM) with a U-Net backbone. This project follows the DDPM training and sampling procedure, inspired by the Hugging Face DDPM example.
+A PyTorch implementation of a Denoising Diffusion Probabilistic Model (DDPM) with a U-Net backbone. This project follows the DDPM training and sampling procedure, inspired by the Hugging Face DDPM example.[Hugging Face DDPM example](https://huggingface.co/blog/annotated-diffusion)
 
 **Repository:** [https://github.com/wrafique007/Stable_Diffusion](https://github.com/wrafique007/Stable_Diffusion)
 
